@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldMap.App", "WorldMap.App\WorldMap.App.csproj", "{EEB4C820-55A4-4A12-8401-9B1A06431E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldMap.Core", "WorldMap.Core\WorldMap.Core.csproj", "{FB1557F5-8C79-46B5-9172-F39CD846068C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldMap.Infrastructure", "WorldMap.Infrastructure\WorldMap.Infrastructure.csproj", "{3B8DFB41-5881-4FED-A150-BF206FDDA54D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldMap.PolygonReducer", "WorldMap.PolygonReducer\WorldMap.PolygonReducer.csproj", "{204E1399-D3EF-4870-858C-4A3FA3B7F651}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2269AD92-1110-4076-8BA0-2B8E5A0FBD0A}"
+	ProjectSection(SolutionItems) = preProject
+		experimenten.md = experimenten.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB4C820-55A4-4A12-8401-9B1A06431E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB4C820-55A4-4A12-8401-9B1A06431E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB4C820-55A4-4A12-8401-9B1A06431E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB4C820-55A4-4A12-8401-9B1A06431E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1557F5-8C79-46B5-9172-F39CD846068C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1557F5-8C79-46B5-9172-F39CD846068C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1557F5-8C79-46B5-9172-F39CD846068C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1557F5-8C79-46B5-9172-F39CD846068C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8DFB41-5881-4FED-A150-BF206FDDA54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8DFB41-5881-4FED-A150-BF206FDDA54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8DFB41-5881-4FED-A150-BF206FDDA54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8DFB41-5881-4FED-A150-BF206FDDA54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204E1399-D3EF-4870-858C-4A3FA3B7F651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204E1399-D3EF-4870-858C-4A3FA3B7F651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204E1399-D3EF-4870-858C-4A3FA3B7F651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204E1399-D3EF-4870-858C-4A3FA3B7F651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
